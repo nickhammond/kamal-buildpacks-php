@@ -1,1 +1,1 @@
-web: ruby app.ru
+web: heroku-php-apache2 .

@@ -20,5 +20,5 @@ builder:
   pack:
     builder: "heroku/builder:24"
     buildpacks:
-      - heroku/ruby
+      - heroku/php
       - heroku/procfile
