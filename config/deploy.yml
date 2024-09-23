@@ -7,7 +7,7 @@ servers:
     hosts:
       - 64.227.108.46
     options:
-      publish: 80
+      publish: 5100
 
 registry:
   username: nickhammond
